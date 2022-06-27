@@ -1,0 +1,34 @@
+h1{
+    font-size: larger;
+    font:optional;
+    font:  sans-serif;
+}
+
+
+div {
+    background-color: blueviolet;
+
+}
+
+ p {
+     width: 60px;
+     height: 70px;
+     border: 2px saddlebrown;
+ }
+
+ #p1 {
+     background-color: aquamarine;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+ }
+ #p2 {
+     background-color: bisque;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+ }
+ #p3 {
+     background-color: darkorange;
+     
+
+
+ }
