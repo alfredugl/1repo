@@ -55,6 +55,9 @@ h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
 
  }
+ .row {
+        width:100%;
+ }
 
 
  /********** Large devices only **********/
